@@ -1,0 +1,64 @@
+
+
+
+
+
+
+
+
+
+.button {
+    border: none;
+    color: rgb(0, 0, 0);
+    padding: 10px 10px;
+    text-align: center;
+    text-decoration: none;
+    display:grid;
+    font-size: 20px;
+    margin: 4px 2px;
+    transition-duration: 0.5s;
+    cursor: pointer;
+    
+  }
+  
+  .botao1 {
+    height: 45px;
+    width: 200px;
+    background-color: white; 
+    color: black; 
+    border: 2px solid skyblue;
+    margin-top: 5px;
+  }
+  
+  .botao1:hover {
+    background-color: skyblue;
+    color: black;
+  }
+
+  .botao2{
+    height: 40px;
+    width: 70px;
+    background-color: white;
+    color: black;
+    border: 2px solid skyblue;
+
+  }
+  .botao2:hover{
+    background-color: skyblue;
+    color:black;
+  }
+
+  .botaoSalvar{
+    text-align: center;
+  
+    height: 40px;
+    width: 150px;
+    background-color: white;
+    color: black;
+    border: 2px solid skyblue;
+  }
+
+  .botaoSalvar:hover{
+    background-color: skyblue;
+    color:black;
+  }
